@@ -317,7 +317,7 @@ resources:
           description: Se pertence ou não à Região Metropolitana de Belo Horizonte.
     scheme: file
     title: Crimes Violentos 2025
-     - description: Dados de Crimes Violentos 2026
+  - description: Dados de Crimes Violentos 2026
     dialect:
       delimiter: ;
     encoding: utf-8-sig
