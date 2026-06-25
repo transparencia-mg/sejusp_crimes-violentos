@@ -10,7 +10,7 @@ A Região Integrada de Segurança Pública – RISP é uma das divisões territo
 
 ## Metodologia Utilizada
 
-Os dados estão disponíveis apenas a partir de 2012, tendo em vista que a implantação do sistema Reds em todo o estado de Minas Gerais só ocorreu no final de 2011. Os dados são extraídos no quinto dia do mês ou no primeiro dia útil subsequente. Dessa forma, registros de um mês que são fechados nos primeiros dias do mês posterior são contabilizados na pesquisa..
+Os dados estão disponíveis apenas a partir de 2012, tendo em vista que a implantação do sistema Reds em todo o estado de Minas Gerais só ocorreu no final de 2011. Os dados são extraídos no quinto dia do mês ou no primeiro dia útil subsequente. Dessa forma, registros de um mês que são fechados nos primeiros dias do mês posterior são contabilizados na pesquisa.
 
 ## Como participar
 
