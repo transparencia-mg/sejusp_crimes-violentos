@@ -16,6 +16,10 @@ A Região Integrada de Segurança Pública – RISP é uma das divisões territo
 
 [Manual de Crimes Violentos](https://www.seguranca.mg.gov.br/images/0_planilhas-e-pdfs/manual%20crimes%20OBS/Metolodogia%20-%20Crimes%20Violentos%20VF%20-%2015.12.pdf)
 
+## Portal Dados Abertos - SEJUSP
+
+[Portal Dados Abertos - SEJUSP](https://www.seguranca.mg.gov.br/index.php/transparencia/dados-abertos)
+
 ## Metodologia Utilizada
 
 Os dados estão disponíveis apenas a partir de 2012, tendo em vista que a implantação do sistema Reds em todo o estado de Minas Gerais só ocorreu no final de 2011. Os dados são extraídos no quinto dia do mês ou no primeiro dia útil subsequente. Dessa forma, registros de um mês que são fechados nos primeiros dias do mês posterior são contabilizados na pesquisa.
