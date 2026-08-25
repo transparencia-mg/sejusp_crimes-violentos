@@ -10,7 +10,9 @@ A Região Integrada de Segurança Pública – RISP é uma das divisões territo
 
 ## Painel de Crimes Violentos
 
-[Painel de Crimes Violentos](https://app.powerbi.com/view?r=eyJrIjoiMWQyNDNmOTQtYTc4Ni00MTEyLTgyNDAtOGE4NDcwMzc0Yzg0IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+[Observatório de Crimes Crimes Violentos](https://app.powerbi.com/view?r=eyJrIjoiMWQyNDNmOTQtYTc4Ni00MTEyLTgyNDAtOGE4NDcwMzc0Yzg0IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+
+[Painel de Crimes Violentos](https://app.powerbi.com/view?r=eyJrIjoiNTVmMmUwNGEtMGVmMS00MWUwLWFlMjAtNzBiYjEzMTI3MDI5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 ## Manual de Crimes Violentos
 
