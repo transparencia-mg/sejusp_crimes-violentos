@@ -8,9 +8,9 @@ Para os Registros de Homicídios Consumados de Belo Horizonte, até dezembro de 
 
 A Região Integrada de Segurança Pública – RISP é uma das divisões territoriais administrativas existentes no estado de Minas Gerais e a mais frequentemente utilizada em estudos da SEJUSP, além da divisão por municípios. Atualmente, Minas Gerais possui 19 RISPs.
 
-## Painel de Crimes Violentos
+## Painéis de Crimes Violentos
 
-[Observatório de Crimes Crimes Violentos](https://app.powerbi.com/view?r=eyJrIjoiMWQyNDNmOTQtYTc4Ni00MTEyLTgyNDAtOGE4NDcwMzc0Yzg0IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+[Observatório de Crimes Violentos](https://app.powerbi.com/view?r=eyJrIjoiMWQyNDNmOTQtYTc4Ni00MTEyLTgyNDAtOGE4NDcwMzc0Yzg0IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 [Painel de Crimes Violentos](https://app.powerbi.com/view?r=eyJrIjoiNTVmMmUwNGEtMGVmMS00MWUwLWFlMjAtNzBiYjEzMTI3MDI5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
