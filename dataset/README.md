@@ -1,10 +1,6 @@
 O Banco de Crimes Violentos abrange as seguintes naturezas principais (crimes): Estupro Consumado; Estupro de Vulnerável Consumado; Estupro de Vulnerável Tentado; Estupro Tentado; Extorsão Consumado; Extorsão Tentado; Extorsão Mediante Sequestro Consumado; Homicídio Tentado; Roubo Consumado; Roubo Tentado; Sequestro e Cárcere Privado Consumado; Sequestro e Cárcere Privado Tentado e Homicídio Consumado (registros).
 
-Os dados utilizados nessa planilha foram extraídos no Armazém de Dados do Sistema Integrado de Defesa Social, em seu módulo do Registro de Evento de Defesa Social - REDS (Armazém_Sids_Reds).
-
-O Armazém_Sids_Reds compila todos os REDS registrados em Minas Gerais, para todas as naturezas previstas. Por se tratar de um sistema integrado, o Armazém_Sids_Reds abrange notificações registradas pela Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar, Sistema Prisional e Sistema Socioeducativo.
-
-Para os Registros de Homicídios Consumados de Belo Horizonte, até dezembro de 2020, foram utilizados os dados da Polícia Civil de Minas Gerais (PCMG), já que, dessa forma, são incluídas informações mais completas, oriundas de instauração de inquéritos policiais.
+Os dados utilizados neste banco foram extraídos da Base Integrada de Segurança Pública (Bisp), em seu módulo Registro de Evento de Defesa Social – REDS. A Bisp compila os REDS registrados em Minas Gerais para as diferentes naturezas previstas. Por se tratar de um sistema integrado, abrange notificações registradas pela Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar, Sistema Prisional e Sistema Socioeducativo.
 
 A Região Integrada de Segurança Pública – RISP é uma das divisões territoriais administrativas existentes no estado de Minas Gerais e a mais frequentemente utilizada em estudos da SEJUSP, além da divisão por municípios. Atualmente, Minas Gerais possui 19 RISPs.
 
